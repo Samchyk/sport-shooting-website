@@ -28,22 +28,6 @@ Ezek az elemek összesen alkotják az alaphelyzetet, amely meghatározza az öss
     date: '2025-11-10',
   },
   {
-    id: 'edzés-1',
-    title: 'Heti edzésprogram kezdőknek',
-    category: 'Edzés',
-    image: '/images/blog-training.jpg',
-    excerpt: 'Egy strukturált heti edzésprogram, amely segít az alapok gyors elsajátítására.',
-    content: `A rendszeres edzés az egyetlen módja annak, hogy fejlődjél a sportlövészetben. Ajánlunk egy 4 napos hetenkénti edzésprogramot, amely fokozatosan fejleszti a képességeket.
-
-Hétfő: Alaphelyzet és markolat - 30 perc
-Szerda: Célzás és légzés - 45 perc
-Péntek: Trigger kontroll - 45 perc
-Vasárnap: Végig edzés - 60 perc
-
-Ez az alapprogram 8 hét alatt biztosítja az alapok szilárd megértését.`,
-    date: '2025-11-05',
-  },
-  {
     id: 'kocentracio-1',
     title: 'Mentális felkészítés és fókusz',
     category: 'Koncentráció',
@@ -59,26 +43,6 @@ Gyakorlatok a mentális fejlesztéshez:
 
 Az ezek a gyakorlatok segítik a mentális stabilitást és az önbizalmat növelik.`,
     date: '2025-10-30',
-  },
-  {
-    id: 'biztonság-1',
-    title: 'Biztonsági ellenőrzőlista minden verseny előtt',
-    category: 'Biztonság',
-    image: '/images/blog-safety-checklist.jpg',
-    excerpt: 'Egy komprehensív ellenőrzőlista, amely biztosítja a biztonságos és felelős lövészetet.',
-    content: `Mielőtt bármilyen versenyhez vagy gyakorlathoz megkezdenél, végig kell menned egy biztonsági ellenőrzőlistán. Ez a lista segít megelőzni a balesetek és a sérüléseket.
-
-Ellenőrzőlista:
-□ Fegyver ellenőrzése
-□ Lőszer ellenőrzése
-□ Személyi védelem felvétele
-□ Lövöterület ellenőrzése
-□ Biztonságos vonal ellenőrzése
-□ Segítséggel rendelkező kezelő
-□ Vészhelyzeti terv
-
-Soha ne hanyagold el ezt az ellenőrzőlistát.`,
-    date: '2025-10-25',
   },
   {
     id: 'tortenet-1',
