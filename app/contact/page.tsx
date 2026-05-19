@@ -70,7 +70,7 @@ export default function ContactPage() {
                   <Mail className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="font-serif font-bold text-primary mb-1">E-mail</h3>
-                    <p className="font-sans text-foreground/80">contacts.hungarysportloveszet.com</p>
+                    <p className="font-sans text-foreground/80">contacts@hungarysportloveszet.com</p>
                   </div>
                 </div>
               </div>

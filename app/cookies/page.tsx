@@ -91,7 +91,7 @@ export default function CookiesPage() {
               Ha kérdéseid vannak a sütik kezeléséről, kérjük lépj velünk kapcsolatba:
             </p>
             <p className="mt-4">
-              E-mail: contacts.hungarysportloveszet.com<br />
+              E-mail: contacts@hungarysportloveszet.com<br />
             </p>
           </section>
         </div>
