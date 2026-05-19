@@ -86,8 +86,7 @@ export default function PrivacyPage() {
               Ha kérdéseid vannak az adatvédelemről, kérlek vedd fel velünk a kapcsolatot:
             </p>
             <p className="mt-4">
-              E-mail: info@loveszeticlub.hu<br />
-              Telephely: Budapest, Magyarország
+              E-mail: contacts.hungarysportloveszet.com<br />
             </p>
           </section>
         </div>
