@@ -11,7 +11,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <div className="font-serif text-xl font-bold mb-4">
-              Lövészeti<span className="block text-xs tracking-widest font-sans mt-1">KLUB</span>
+                hungarysportloveszet.com
             </div>
             <p className="text-sm font-sans leading-relaxed">
               Magyarország vezető sportlövészeti közössége. Dedikálva az oktatásra és a versenyfelkészítésre.

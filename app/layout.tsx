@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"], variable: '--font-sans' });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: '--font-serif' });
 
 export const metadata: Metadata = {
-  title: 'Lövészeti Klub - Magyar Sportlövészet',
+  title: 'hungarysportloveszet - Magyar Sportlövészet',
   description: 'Magyarország vezető sportlövészeti weboldala. Tájékozódjon a technikákról, szabályokról és a sportlövészet történetéről.',
 }
 

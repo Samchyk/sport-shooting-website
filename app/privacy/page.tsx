@@ -23,7 +23,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="font-serif text-2xl font-bold text-primary mb-4">1. Adatkezelés</h2>
             <p>
-              A Lövészeti Klub (továbbiakban: &quot;szervezet&quot;) megkötelezi magát a személyes adatok védelme iránt. Ez az adatvédelmi szabályzat leírja, hogyan gyűjtjük, használjuk és védjük az adatokat.
+              A hungarysportloveszet (továbbiakban: &quot;szervezet&quot;) megkötelezi magát a személyes adatok védelme iránt. Ez az adatvédelmi szabályzat leírja, hogyan gyűjtjük, használjuk és védjük az adatokat.
             </p>
           </section>
 

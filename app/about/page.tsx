@@ -24,7 +24,7 @@ export default function AboutPage() {
             <div className="relative w-full h-64 sm:h-72 md:h-80 rounded-lg overflow-hidden">
               <Image
                 src="/images/about-community.jpg"
-                alt="Lövészeti klub közösség"
+                alt="hungarysportloveszet közösség"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -43,7 +43,7 @@ export default function AboutPage() {
               Missziónk
             </h2>
             <p className="font-sans text-lg text-foreground/80 leading-relaxed mb-4">
-              A Lövészeti Klubnak az a célja, hogy népszerűsítse és fejlessze a sportlövészetet Magyarországon. Minden szintű versenyzőt támogatunk az alapoktól az olimpiai szintig.
+              A hungarysportloveszetnak az a célja, hogy népszerűsítse és fejlessze a sportlövészetet Magyarországon. Minden szintű versenyzőt támogatunk az alapoktól az olimpiai szintig.
             </p>
             <p className="font-sans text-lg text-foreground/80 leading-relaxed">
               Azt hiszünk, hogy a sportlövészet az egyik leghatékonyabb módja a fegyelem, a fókusz és a kitartás fejlesztésének.
@@ -76,7 +76,7 @@ export default function AboutPage() {
               Történetünk
             </h2>
             <p className="font-sans text-lg text-foreground/80 leading-relaxed">
-              A Lövészeti Klub számos év tapasztalatával rendelkezik a sportlövészet oktatásában és versenyeztetésében. Sok olimpiai versenyzőt és nemzetközi bajnokot képeztünk ki az évek során.
+              A hungarysportloveszet számos év tapasztalatával rendelkezik a sportlövészet oktatásában és versenyeztetésében. Sok olimpiai versenyzőt és nemzetközi bajnokot képeztünk ki az évek során.
             </p>
           </div>
         </div>
