@@ -37,13 +37,7 @@ export default async function BlogArticlePage({ params }: Props) {
             <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-sans font-medium rounded">
               {article.category}
             </span>
-            <span className="font-sans text-xs text-foreground/50">
-              {new Date(article.date).toLocaleDateString('hu-HU', { 
-                year: 'numeric', 
-                month: 'long', 
-                day: 'numeric' 
-              })}
-            </span>
+
           </div>
           <h1 className="font-serif text-5xl font-bold text-primary mb-8">
             {article.title}

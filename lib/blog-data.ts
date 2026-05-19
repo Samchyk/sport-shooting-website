@@ -8,7 +8,7 @@ export const blogArticles = [
     content: `A sportlövészet útja az alapokkal kezdődik. Ebben az útmutatóban megismerkedsz az alapvető terministikai fogalmakkal, az eszközök kiválasztásával és az első gyakorlati lépésekkel.
 
 Mielőtt elkezdened, fontos megérteni, hogy a sportlövészet fegyelem és kitartás nélkül nem lehetséges. Az első hónapok alatt csak az alapokat fogod elsajátítani, de ezek az alapok később a sikerhez vezetnek.`,
-    date: '2025-11-15',
+
   },
   {
     id: 'technika-1',
@@ -25,7 +25,7 @@ Az alaphelyzet összetevői:
 4. A fej poziciója
 
 Ezek az elemek összesen alkotják az alaphelyzetet, amely meghatározza az összes későbbi lövésed pontosságát.`,
-    date: '2025-11-10',
+
   },
   {
     id: 'kocentracio-1',
@@ -42,7 +42,7 @@ Gyakorlatok a mentális fejlesztéshez:
 - Stressz-kezelési technikák
 
 Az ezek a gyakorlatok segítik a mentális stabilitást és az önbizalmat növelik.`,
-    date: '2025-10-30',
+
   },
   {
     id: 'tortenet-1',
@@ -60,7 +60,7 @@ A sport fejlődésének főbb állomásai:
 - 20. század: Verseny szabályok szabványosítása
 
 A sportlövészet ma 15 féle versenyszámmal szerepel az olimpián.`,
-    date: '2025-10-20',
+
   },
   {
     id: 'szabalyok-1',
@@ -78,7 +78,7 @@ Legfontosabb szabályok:
 5. Biztonsági előírások
 
 A teljes szabályokat az ISSF weboldal tartalmazza.`,
-    date: '2025-10-15',
+
   },
   {
     id: 'felszerelesvalasztas-1',
@@ -95,6 +95,6 @@ Kiválasztási kritériumok:
 4. Költségvetés
 
 Ajánlom, hogy kezdj egy alapvető felszerelésből, majd fokozatosan fejleszd a minőséget, ahogy fejlődsz.`,
-    date: '2025-10-10',
+
   }
 ]
